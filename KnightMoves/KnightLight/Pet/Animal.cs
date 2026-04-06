@@ -1,9 +1,10 @@
-﻿﻿namespace KnightMoves.KnightLight.Pet;
+﻿namespace KnightMoves.KnightLight.Pet;
 
 
 public abstract class Animal {
     
 }
+
 
 
 
